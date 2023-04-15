@@ -1,7 +1,0 @@
-myFood= ("Mac and Cheese")
-myPlant=("Cactus")
-myCook= ("Saute")
-myBurn= ("Ruined")
-myDIY=("Hammers")
-print()
-print(myCook ,myFood ,"with",myBurn ,myPlant ,"on a bed of" ,myDIY)
